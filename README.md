@@ -31,7 +31,7 @@ This project proposes a **robust offline RL framework** that:
 
 ```bash
 git clone https://github.com/thanhkaist/robust_offline_rl.git
-cd robust-offline-rl
+cd robust_offline_rl
 pip install -r requirements.txt
 ```
 
