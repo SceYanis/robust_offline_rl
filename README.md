@@ -2,7 +2,7 @@
 
 PyTorch implementation of  
 **Towards Robust Policy: Enhancing Offline Reinforcement Learning with Adversarial Attacks and Defenses**  
-[[Paper on arXiv]([https://arxiv.org/abs/2405.11206])]  
+[[Paper on arXiv](https://arxiv.org/abs/2405.11206)]  
 
 ---
 
